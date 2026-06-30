@@ -4,6 +4,7 @@ import { useContext } from 'react'
 import { useEffect } from 'react'
 import { AppContext } from '../context/AppContext'
 import { assets } from '../assets/assets_frontend/assets'
+import RelatedDoctors from '../components/RelatedDoctors'
 
 
 const Appointment = () => {
@@ -134,11 +135,12 @@ const Appointment = () => {
 
 
         </div>
-
         <button className='bg-primary text-white text-sm font-light px-14 py-3 rounded-full my-6'>Book an appointment</button>
-
-        
       </div>
+
+      {/* Listing Related Doctors */}
+
+      <RelatedDoctors docId={docId} speciality={docInfo.speciality}/>
     </div>
   )
 }
