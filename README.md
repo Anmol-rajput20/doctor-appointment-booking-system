@@ -4,6 +4,16 @@ A full-stack **Doctor Appointment Booking System** built using the MERN stack. T
 
 ---
 
+
+## 🌐 Live Demo
+
+| Application | Link |
+|---|---|
+| 👤 Patient Website | [Visit Patient Website](https://doctor-appointment-booking-system-7fja-isn4vddds.vercel.app/) |
+| 🛠️ Admin Panel | [Visit Admin Panel](https://doctor-appointment-booking-system-eqpa-j2m4e90hq.vercel.app/) |
+
+> 💳 Razorpay is currently configured in Test Mode.
+
 ## 🚀 Features
 
 ### 👤 Patient Features
