@@ -265,22 +265,6 @@ Tailwind CSS is used to create the responsive user interface.
 
 ---
 
-## ⚙️ Installation
-
-### 1. Clone the Repository
-
-```bash
-git clone <your-repository-url>
-```
-
-### 2. Open the Project
-
-```bash
-cd Doctor-Appointment-Booking-System
-```
-
-
----
 
 ## 🧪 Testing
 
